@@ -1,0 +1,8 @@
+body{
+    background-image: url(https://images8.alphacoders.com/870/870284.jpg);
+}
+.navbar-expand-lg{
+    border-bottom-color: whitesmoke;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+}
